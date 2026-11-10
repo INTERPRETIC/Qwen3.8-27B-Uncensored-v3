@@ -23,6 +23,8 @@ Pan & Xu (2026) Chinese political battery, 115 sensitive questions; values row u
 
 ## Downloads
 
+DOI: [10.57967/hf/11540](https://doi.org/10.57967/hf/11540)
+
 [Collection: Qwen3.8-27B Uncensored v3](https://huggingface.co/collections/InterpreticAI/qwen38-27b-uncensored-v3-6aef57a39ba5237bda31038d)
 
 | Format | Size | Runtime |
