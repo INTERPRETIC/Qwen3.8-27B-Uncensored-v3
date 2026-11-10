@@ -62,10 +62,11 @@ Nous Research (2026). Arete. https://nousresearch.com/arete
 
 ```bibtex
 @misc{interpretic2026qwen38_27b_uncensored_v3,
-  author       = {Rain},
+  author       = {Young, Thomas},
   organization = {INTERPRETIC AI},
   title        = {Qwen3.8-27B-Uncensored-v3: Political Censorship Removed from Arete-27B},
   year         = {2026},
+  doi          = {10.57967/hf/11540},
   howpublished = {\url{https://github.com/INTERPRETIC/Qwen3.8-27B-Uncensored-v3}}
 }
 ```
